@@ -3,8 +3,10 @@ Citi Bike is New York City's official bike share. Public data is available for a
 
 This project is unaffiliated with Citi Bike.
 
-## Phenomena 1: User Demographic Data
+**Data Source**: https://www.citibikenyc.com/system-data
 
+## Phenomena 1: User Demographic Data
+![Screencap of Tableau dashboard with no filters selected](https://github.com/MaxBrowning/citibike_tableau/blob/main/Images/Phenomena%201%20User%20Demographic%20Data.JPG)
 
 ## Phenomena 2: Bike Usage Rates
 
