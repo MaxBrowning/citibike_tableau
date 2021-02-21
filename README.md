@@ -45,3 +45,6 @@ Very quickly we can see that area code 07302 have the most active bike stations,
 There appears to be an anomaly when looking at the average trip length by ending station. Most maps do not attribute many rides to beginning or ending on the eastern portion of the map; however, we can see on the bottom-middle graph that the eastern stations have the longest average trips. This very likely points to a flaw in the data, rather than a trend, as the largest station averaged trips at more than 1 million seconds, despite not appearing on other lists.
 
 Many stations show similar popularity as start and ending stations, indicating that they are likely in better locations. Likewise, stations that are less popular as starting stations were generally less popular as ending stations.
+
+-----
+View my public Tableau profile at https://public.tableau.com/profile/max.browning#!/.
