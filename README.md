@@ -9,6 +9,7 @@ This project is unaffiliated with Citi Bike.
 ![Screencap of Tableau dashboard with no filters selected](https://github.com/MaxBrowning/citibike_tableau/blob/main/Images/Phenomena%201%20User%20Demographic%20Data.JPG)
 
 **Overview:** This dashboard highlights demographic data of bike riders in 2020, particularly highlighting gender, user type, and birth year.
+
 **Analysis:**
 On quick glance, three quick inferences can be made:
 1) The majority of riders identify as male.
@@ -23,6 +24,7 @@ However, on a closer examination, we can fairly quickly understand one of these 
 ![Screencap of Tableau dashboard with no filters selected](https://github.com/MaxBrowning/citibike_tableau/blob/main/Images/Phenomena%202%20Bike%20Usage%20Rates.JPG)
 
 **Overview:** This dashboard highlights bike usage rates.
+
 **Analysis:**
 In 2020, the average bike was ridden just 89 times. Half of bikes were ridden between 44 and 267 times. Our super-performing bikes were those ridden more than 600 times during 2020. These outlier bikes performed well above average. An area of future study would be looking into these bikes to understand if there is a common variable for their high usage rate - are they potentially more likely to be ridden to and from the most popular stations?
 
@@ -34,6 +36,7 @@ One interesting finding is in taking a closer look at the BikeIDs with the longe
 ![Screencap of six Cit iBike station maps with varying displays](https://github.com/MaxBrowning/citibike_tableau/blob/main/Images/Bike%20Station%20Usage%20Rates.JPG)
 
 **Key:** Dark blue, larger circles indicate higher values whereas light teal, smaller circles indicate smaller values.
+
 **Overview:** While "most popular" is generally used to imply count, popular bike stations may also be defined as those that attract longer rides. For this visual, I am looking at all 2020 data.
 
 **Analysis:**
